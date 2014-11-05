@@ -5,6 +5,7 @@
 *	Purpose : Displays the popup in all forms
 ****************************************************************
 */
+//miraaa miriam!! ahora si?! 
 function showPopup()
 {
 	kony.ui.Alert({message: "Hello World!",
